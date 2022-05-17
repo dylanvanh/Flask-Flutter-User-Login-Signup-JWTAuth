@@ -14,9 +14,9 @@ dart pub global activate very_good_cli
 very_good packages get --recursive
 ```
 
-## About
+# About
 
-Project structure created using very_good_cli
+## Project created using very_good_cli
 ```
 https://github.com/VeryGoodOpenSource/very_good_cli
 ```
