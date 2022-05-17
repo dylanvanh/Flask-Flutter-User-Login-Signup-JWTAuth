@@ -16,13 +16,13 @@ class UserModel(db.Model):
         db.session.add(self)
         db.session.commit()
 
-    # returns the USER object using an received USERNAME
+    # returns the USER object using a received USERNAME
     @classmethod
     def find_by_username(cls, username):
         # returns an ItemModel object
         return cls.query.filter_by(username=username).first()
 
-    # returns the USER object using an received ID
+    # returns the USER object using a received ID
     @classmethod
     def find_by_id(cls, _id):
         # _id as id is a reserved word for python
