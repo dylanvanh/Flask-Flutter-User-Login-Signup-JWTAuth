@@ -1,4 +1,4 @@
-# Flutter-Flask-JWT-Login-Signup
+# Flutter & Flask User Login and Signup using JWT authentication
 
 ## Frontend:
 ```
