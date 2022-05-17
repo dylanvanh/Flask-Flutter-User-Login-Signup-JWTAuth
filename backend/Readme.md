@@ -1,7 +1,7 @@
 # Flask Backend
 
 # Getting Started 🚀
-## Installation
+# Installation
 ### 1. Create and activate a virtualenv using python 3.8.9 
 ->Python version 3.10 does not work with this version of Flask-JWT
 
@@ -26,7 +26,7 @@ cd code
 python app.py
 ```
 
-## Available end points
+# Available end points
 
 ### /auth POST
 
