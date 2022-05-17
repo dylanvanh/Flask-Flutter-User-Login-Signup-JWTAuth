@@ -14,17 +14,21 @@ dart pub global activate very_good_cli
 very_good packages get --recursive
 ```
 
+## About
 
-# About
-
-Created using very_good_cli <br>
-Uses the bloc package for state management
+Project structure created using very_good_cli
+```
+https://github.com/VeryGoodOpenSource/very_good_cli
+```
 
 ## Bloc
+
+State Management using the Bloc package
 
 ```
 https://bloclibrary.dev/#/
 https://pub.dev/packages/flutter_bloc
+https://github.com/felangel/bloc
 ```
 
 
